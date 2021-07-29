@@ -1,0 +1,29 @@
+{
+  "name": "frowy-bot",
+  "version": "0.0.1",
+  "description": "Frowy Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "s"
+  },
+  "keywords": [
+    "Westy",
+    "Discord",
+    "Bot",
+    "Javasciprt",
+    "Velonia"
+  ],
+  "author": "` Westy#0001",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-buttons": "^4.0.0",
+    "discord-menu-buttons": "^1.4.7",
+    "discord.js": "^12.5.3",
+    "mathjs": "^9.4.4",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  }
+  
+}
